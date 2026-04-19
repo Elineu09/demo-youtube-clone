@@ -3,7 +3,8 @@ let videoGridElement = document.getElementsByClassName("video-grid")[0];
 function renderVideoPrev() {
 
   for (let i = 1; i <= 12; i++){
-  videoGridElement.innerHTML += `<div class="video-prev">
+  videoGridElement.innerHTML +=
+  `<div class="video-prev">
         <div class="thumbnail-row">
           <img src="thumbnails/thumbnail-${i}.webp" class="thumbnail" />
         </div>
