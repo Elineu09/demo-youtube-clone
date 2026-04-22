@@ -7,7 +7,8 @@
       "img": {
         "profile": "channel-pictures/channel-1.jpeg",
         "thumbnail": "thumbnails/thumbnail-1.webp"
-      }
+      },
+      "time": "14:20"
     },
         {
       "title": "Try Not To Laugh Challenge #9",
@@ -16,7 +17,8 @@
       "img": {
         "profile": "channel-pictures/channel-2.jpeg",
         "thumbnail": "thumbnails/thumbnail-2.webp"
-      }
+      },
+      "time": "8:20"
     },
         {
       "title": "Crazy Tik Toks Taken Moments Before DISASTER",
@@ -25,7 +27,8 @@
       "img": {
         "profile": "channel-pictures/channel-3.jpeg",
         "thumbnail": "thumbnails/thumbnail-3.webp"
-      }
+      },
+      "time": "9:13"
     },
         {
       "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
@@ -34,7 +37,8 @@
       "img": {
         "profile": "channel-pictures/channel-4.jpeg",
         "thumbnail": "thumbnails/thumbnail-4.webp"
-      }
+      },
+      "time": "22:09"
     },
         {
       "title": "Kadane's Algorithm to Maximum Sum Subarray Problem",
@@ -43,7 +47,8 @@
       "img": {
         "profile": "channel-pictures/channel-5.jpeg",
         "thumbnail": "thumbnails/thumbnail-5.webp"
-      }
+      },
+      "time": "11:17"
     },
         {
       "title": "Anything You Can Fit In The Circle I’ll Pay For",
@@ -52,7 +57,8 @@
       "img": {
         "profile": "channel-pictures/channel-6.jpeg",
         "thumbnail": "thumbnails/thumbnail-6.webp"
-      }
+      },
+      "time": "19:59"
     },
         {
       "title": "Why Planes Don't Fly Over Tibet",
@@ -61,7 +67,8 @@
       "img": {
         "profile": "channel-pictures/channel-7.jpeg",
         "thumbnail": "thumbnails/thumbnail-7.webp"
-      }
+      },
+      "time": "10:13"
     },
         {
       "title": "Inside The World's Biggest Passenger Plane",
@@ -70,7 +77,8 @@
       "img": {
         "profile": "channel-pictures/channel-8.jpeg",
         "thumbnail": "thumbnails/thumbnail-8.webp"
-      }
+      },
+      "time": "7:12"
     },
         {
       "title": "The SECRET to Super Human STRENGTH",
@@ -79,7 +87,8 @@
       "img": {
         "profile": "channel-pictures/channel-9.jpeg",
         "thumbnail": "thumbnails/thumbnail-9.webp"
-      }
+      },
+      "time": "13:17"
     },
         {
       "title": "How The World's Largest Cruise Ship Makes 30,000 Meals Every Day",
@@ -88,7 +97,8 @@
       "img": {
         "profile": "channel-pictures/channel-10.jpeg",
         "thumbnail": "thumbnails/thumbnail-10.webp"
-      }
+      },
+      "time": "7:53"
     },
         {
       "title": "Dubai's Crazy Underwater Train and Other Things #Only in Dubai",
@@ -97,7 +107,8 @@
       "img": {
         "profile": "channel-pictures/channel-11.jpeg",
         "thumbnail": "thumbnails/thumbnail-11.webp"
-      }
+      },
+      "time": "4:10"
     },
         {
       "title": "What would happen if you didn’t drink water? - Mia Nacamulli",
@@ -106,7 +117,8 @@
       "img": {
         "profile": "channel-pictures/channel-12.jpeg",
         "thumbnail": "thumbnails/thumbnail-12.webp"
-      }
+      },
+      "time": "4:51"
     }
   ]
 }
