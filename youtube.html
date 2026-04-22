@@ -10,6 +10,7 @@
     />
     <link rel="stylesheet" href="styles/general.css" />
     <link rel="stylesheet" href="styles/header.css" />
+    <link rel="stylesheet" href="styles/sidebar.css" />
     <link rel="stylesheet" href="styles/video.css" />
   </head>
   <body>
@@ -28,15 +29,18 @@
       </div>
       <div class="right-section">
         <img class="upload-icon" src="icons/upload.svg" />
-        <img class="youtube-apps-icon" src="icons/youtube-apps.svg" /><img
-          class="notifications-icon"
-          src="icons/notifications.svg"
-        /><img
+        <img class="youtube-apps-icon" src="icons/youtube-apps.svg" />
+        <div class="notifications-icon-container">
+          <img class="notifications-icon" src="icons/notifications.svg" />
+          <div class="notifications-count">3</div>
+        </div>
+        <img
           class="current-user-picture"
           src="channel-pictures/my-channel.jpeg"
         />
       </div>
     </div>
+    <div class="sidebar">sidebar</div>
     <div class="video-grid"></div>
     <script src="script/main.js"></script>
   </body>

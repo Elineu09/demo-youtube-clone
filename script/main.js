@@ -22,6 +22,7 @@ function renderVideoPrev(data) {
   `<div class="video-prev">
         <div class="thumbnail-row">
           <img src=${data['video-prev'][i].img.thumbnail} class="thumbnail"/>
+          <div class="video-time">${data['video-prev'][i].time}</div>
         </div>
         <div class="video-info-grid">
           <div class="channel-picture">
