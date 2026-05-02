@@ -9,18 +9,35 @@
   row-gap: 40px;
 }
 
+@media (max-width: 750px) {
+  .video-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 751px) and (max-width: 999px) {
+  .video-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1000px) {
+  .video-grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
 .thumbnail-row {
   margin-bottom: 8px;
-  position: relative
+  position: relative;
 }
 
 .video-time {
-  background-color: rgba(0, 0, 0, .95);
+  background-color: rgba(0, 0, 0, 0.95);
   color: rgb(256, 256, 256);
   position: absolute;
   bottom: 8px;
   right: 5px;
-  font-family: Roboto, Arial;
   font-size: 12px;
   font-weight: 500;
   padding: 4px;
